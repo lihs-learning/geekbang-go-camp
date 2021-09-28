@@ -1,0 +1,1 @@
+将 DTO（Data Translate Object，PB 的 msg）转换为 DO（Domain Object，即 biz 中定义的业务领域对象）
